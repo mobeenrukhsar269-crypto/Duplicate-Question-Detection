@@ -131,7 +131,7 @@ demo.launch()
 | Name | GitHub |
 |------|--------|
 | Mobeen | [@mobeenrukhsar269-crypto](https://github.com/mobeenrukhsar269-crypto) |
-| Muhammad Ahmad | [@](https://github.com/) |
+| Muhammad Ahmad | [@Ehmad-7](https://github.com/Ehmad-7) |
 
 
 ## References
